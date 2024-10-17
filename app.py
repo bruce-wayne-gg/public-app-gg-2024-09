@@ -1,7 +1,6 @@
 import antigravity
 
-client_id=ABIAL9260XIGGG9RJS1S
-client_secret=ySOKW5kMVo2nYlTu4h5hiNSa3KFjn9eEeAEI/GjY
+SEED=a2860db6-7198-48ce-9cc9-e90a2aa1f4dc
 
 def main():
     antigravity.fly()
